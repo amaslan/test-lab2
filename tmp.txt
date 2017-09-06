@@ -1,1 +1,2 @@
-This is a new file.
+This is a new file, and some changes on master.
+This is additional work on master that I like.
